@@ -8,3 +8,7 @@ El propósito principal de esta rama es diseñar e implementar las estructuras d
 En esta rama, encontrarás implementaciones detalladas de las siguientes estructuras de datos en C++:
 
 Contacto: Define la estructura básica de un contacto con campos que abarcan desde nombres y números hasta redes sociales y direcciones.
+
+NodoLista: 
+
+NodoBTS: 
