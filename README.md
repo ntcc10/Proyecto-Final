@@ -12,18 +12,18 @@ La implementación del árbol de búsqueda binaria se encuentra en la clase Arbo
 # Orden
 El orden en que se añadieron las funcionalidades son las siguientes:
 
-ArbolBTS_Agregar
+### ArbolBTS_Agregar
 • Agregar un nuevo contacto, que incluye un nombre, un número de teléfono, redes sociales, icono que lo represente y una dirección.
-ArbolBTS_Eliminar
+### ArbolBTS_Eliminar
 • Eliminar un contacto existente por nombre.
-ArbolBTS_Buscar
+### ArbolBTS_Buscar
 • Buscar un contacto por nombre y mostrar su información completa (nombre, número de
 teléfono y dirección).
-ArbolBTS_Mostrar
+### ArbolBTS_Mostrar
 • Mostrar la lista completa de contactos ordenados alfabéticamente por nombre.
-ArbolBTS_Contar
+### ArbolBTS_Contar
 • Mostrar la cantidad total de contactos en la libreta.
-ArbolBTS_Letra
+### ArbolBTS_Letra
 • Mostrar los contactos cuyos nombres comienzan con una letra específica.
-ArbolBTS_Copia
+### ArbolBTS_Copia
 • Realizar una copia de seguridad de la libreta de contactos en un archivo de texto.
